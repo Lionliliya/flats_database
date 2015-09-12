@@ -10,7 +10,7 @@ public class Main {
     private static final String DB_DRIVER = "com.mysql.jdbc.Driver";
     private static final String DB_CONNECTION = "jdbc:mysql://localhost:3306/flatsdb";
     private static final String DB_USER = "root";
-    private static final String DB_PASSWORD = "123_lion_123";
+    private static final String DB_PASSWORD = "your password";
 
     private static final String CREATE_TABLE_SQL = "CREATE TABLE IF NOT EXISTS Flats (" +
             "id INT NOT NULL AUTO_INCREMENT PRIMARY KEY," +
